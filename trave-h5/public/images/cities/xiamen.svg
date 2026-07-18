@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#00CED1"/>
+  <ellipse cx="100" cy="200" rx="60" ry="40" fill="#2E8B57"/>
+  <ellipse cx="300" cy="180" rx="50" ry="50" fill="#3CB371"/>
+  <rect x="250" y="130" width="30" height="80" fill="#8B4513"/>
+  <rect x="270" y="110" width="20" height="30" fill="#8B4513"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">厦门</text>
+</svg>

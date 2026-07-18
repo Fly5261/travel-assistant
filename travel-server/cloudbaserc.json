@@ -1,0 +1,20 @@
+{
+  "version": "2.0",
+  "envId": "fly5261-d1gvnkkh251fbe08d",
+  "functions": [
+    {
+      "name": "travel-server",
+      "trigger": {
+        "type": "http",
+        "path": "/"
+      },
+      "runtime": "Nodejs18.15",
+      "memory": 512,
+      "timeout": 60,
+      "envVariables": {
+        "PORT": "9000",
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}

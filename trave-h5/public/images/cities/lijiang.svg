@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#87CEEB"/>
+  <polygon points="50,200 80,80 110,200" fill="#8B4513"/>
+  <polygon points="120,200 150,60 180,200" fill="#A0522D"/>
+  <polygon points="190,200 220,100 250,200" fill="#8B4513"/>
+  <polygon points="260,200 290,70 320,200" fill="#A0522D"/>
+  <polygon points="330,200 360,120 390,200" fill="#8B4513"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">丽江</text>
+</svg>

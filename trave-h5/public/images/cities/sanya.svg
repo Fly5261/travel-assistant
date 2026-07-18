@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#00CED1"/>
+  <rect width="400" height="80" fill="#FFD700"/>
+  <ellipse cx="200" cy="220" rx="160" ry="50" fill="#FFE4B5"/>
+  <rect x="170" y="100" width="60" height="80" fill="#FF6347"/>
+  <rect x="185" y="80" width="30" height="30" fill="#FF6347"/>
+  <circle cx="300" cy="150" r="30" fill="white"/>
+  <circle cx="280" cy="140" r="25" fill="white"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">三亚</text>
+</svg>

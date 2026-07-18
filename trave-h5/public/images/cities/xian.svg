@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#CD853F"/>
+  <rect x="50" y="100" width="60" height="160" fill="#DAA520"/>
+  <rect x="120" y="100" width="60" height="160" fill="#DAA520"/>
+  <rect x="190" y="100" width="60" height="160" fill="#DAA520"/>
+  <rect x="260" y="100" width="60" height="160" fill="#DAA520"/>
+  <rect x="330" y="100" width="60" height="160" fill="#DAA520"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">西安</text>
+</svg>

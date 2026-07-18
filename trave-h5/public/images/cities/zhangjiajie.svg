@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#98FB98"/>
+  <rect x="60" y="100" width="25" height="170" fill="#6B8E23"/>
+  <rect x="120" y="60" width="30" height="210" fill="#808000"/>
+  <rect x="180" y="80" width="20" height="190" fill="#6B8E23"/>
+  <rect x="230" y="40" width="35" height="230" fill="#808000"/>
+  <rect x="290" y="120" width="25" height="150" fill="#6B8E23"/>
+  <rect x="340" y="90" width="20" height="180" fill="#808000"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">张家界</text>
+</svg>

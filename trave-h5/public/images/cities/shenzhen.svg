@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#32CD32"/>
+  <rect x="80" y="100" width="40" height="160" fill="#00CED1"/>
+  <rect x="140" y="80" width="35" height="180" fill="#20B2AA"/>
+  <rect x="195" y="120" width="50" height="140" fill="#008B8B"/>
+  <rect x="265" y="70" width="40" height="190" fill="#00CED1"/>
+  <rect x="325" y="110" width="30" height="150" fill="#20B2AA"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">深圳</text>
+</svg>

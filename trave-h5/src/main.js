@@ -1,0 +1,10 @@
+import { createApp } from "vue";
+// import "./style.css";
+import "./styles/common.css";
+import "vant/lib/index.css";
+import Vant from "vant";
+import App from "./App.vue";
+import router from "./router/index.js";
+const app = createApp(App);
+app.use(Vant).use(router);
+app.mount("#app");
