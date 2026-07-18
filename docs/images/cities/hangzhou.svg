@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#00FA9A"/>
+  <ellipse cx="200" cy="200" rx="150" ry="60" fill="#00CED1"/>
+  <circle cx="100" cy="100" r="40" fill="#FFE4E1"/>
+  <circle cx="300" cy="80" r="30" fill="#FFF0F5"/>
+  <circle cx="250" cy="120" r="35" fill="#FFEFD5"/>
+  <rect x="160" y="50" width="80" height="20" fill="#8B4513"/>
+  <rect x="185" y="30" width="30" height="20" fill="#8B4513"/>
+  <rect x="195" y="10" width="10" height="20" fill="#8B4513"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">杭州</text>
+</svg>

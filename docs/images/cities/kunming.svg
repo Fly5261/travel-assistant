@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#90EE90"/>
+  <circle cx="100" cy="100" r="20" fill="#FF69B4"/>
+  <circle cx="150" cy="150" r="15" fill="#FF1493"/>
+  <circle cx="250" cy="80" r="18" fill="#FF69B4"/>
+  <circle cx="300" cy="120" r="12" fill="#FF1493"/>
+  <circle cx="180" cy="200" r="25" fill="#FF69B4"/>
+  <circle cx="330" cy="180" r="15" fill="#FF1493"/>
+  <circle cx="80" cy="200" r="18" fill="#FF69B4"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">昆明</text>
+</svg>

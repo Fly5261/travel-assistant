@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#FF7F50"/>
+  <circle cx="200" cy="150" r="60" fill="orange"/>
+  <circle cx="200" cy="150" r="40" fill="#FFA500"/>
+  <circle cx="200" cy="150" r="20" fill="#FFD700"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">长沙</text>
+</svg>
