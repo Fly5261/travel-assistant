@@ -72,7 +72,7 @@
         <p>智能旅游助手 v1.0.0</p>
         <p class="mt-2">基于 AI 技术的智能旅游规划平台</p>
         <p class="mt-2">为您提供个性化的旅游行程推荐和实时旅游咨询服务</p>
-        <p class="mt-4 text-center">© 2024 智能旅游助手</p>
+        <p class="mt-4 text-center">© 2026 智能旅游助手</p>
       </div>
     </van-dialog>
   </div>
